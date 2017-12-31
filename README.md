@@ -1,2 +1,0 @@
-# OTAupdate2
-OtaServer
